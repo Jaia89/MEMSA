@@ -1,2 +1,2 @@
-# MultiMesoStructA
-Multiplex Mesoscopic Structure Analysis
+# MEMSA
+MEsoscopic Multiplex Structure Analysis
