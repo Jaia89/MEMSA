@@ -10,6 +10,7 @@
  Physical Review E 92 (4), 2015  
 
  (c) Jacopo Iacovacci (mriacovacci@hotmail.it) 
+     Ginestra Bianconi (ginestra.bianconi@gmail.com)
  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 MEMSA (MEsoscopic Multiplex Structure Analysis) is a program developed to extract information from the mesoscopic structures of multiplex
